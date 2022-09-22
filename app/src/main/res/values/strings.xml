@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnterPasswordApplication</string>
+    <string name="button1">Вход</string>
+    <string name="button2">Регистрация</string>
+    <string name="text_name_layout">Введите логин и пароль в поля для ввода. Нажмите на кнопку</string>
+    <string name="text_error_authentication">Не верно введена пара логин пароль</string>
+    <string name="text_registration">Введите логин, email и пароль в поля ввода. Для регистрации нажмите кнопку</string>
+    <string name="text_error">Повторите регистарцию. Приложение обнаружило ошибку</string>
+</resources>

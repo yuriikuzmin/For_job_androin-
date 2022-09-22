@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379449415640",
+    "project_id": "enterpaswodapplication",
+    "storage_bucket": "enterpaswodapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379449415640:android:8e1bd8372aa69bdf6744ad",
+        "android_client_info": {
+          "package_name": "com.kuzmin.enterpaswodapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379449415640-k1epu4lkl5u7l8uakcui8crk5h2cfm0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAR3WoKb6r66PtReTOHzlDTym1qcZl_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379449415640-k1epu4lkl5u7l8uakcui8crk5h2cfm0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
